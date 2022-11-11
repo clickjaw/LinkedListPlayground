@@ -54,8 +54,8 @@ namespace LinkedList.LLFolder
             current.Next = newNode;
         }
 
-        public void nthFromLast(int data, string nData){
-            
-        }
+        // public void nthFromLast(int data, string nData){
+            // I would need to compare K with ....
+        // }
     }
 }
